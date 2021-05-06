@@ -717,7 +717,7 @@ func BuildEnv(target, name, depPath string) (map[string]string, []string, []stri
 			"GOROOT": runtime.GOROOT(),
 
 			"GOOS":   "darwin",
-			"GOARCH": "amd64",
+			"GOARCH": utils.GOARCH(),
 
 			"CGO_ENABLED": "1",
 		}
