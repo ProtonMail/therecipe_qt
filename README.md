@@ -1,6 +1,8 @@
 Introduction
 ------------
 
+**This is fork of [therecipe/qt](https://github.com/therecipe/qt) in order to make ARM64 darwin build with Qt 5.13**
+
 [Qt](https://en.wikipedia.org/wiki/Qt_(software)) is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms with little or no change in the underlying codebase.
 
 [Go](https://en.wikipedia.org/wiki/Go_(programming_language)), also known as Golang, is a programming language designed at Google.
